@@ -10,10 +10,6 @@
 
 ###
 
-<img align="right" height="200" src="https://gifdb.com/images/thumbnail/club-penguin-dance-498-x-483-gif-vmuw5kws781kzd5e.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -61,6 +57,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
 </div>
+
+###
+
+<img align="right" height="200" src="https://gifdb.com/images/thumbnail/club-penguin-dance-498-x-483-gif-vmuw5kws781kzd5e.gif"  />
 
 ###
 
