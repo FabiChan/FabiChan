@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hola Mundo! 
+My name is Leslie López and I'm currently a Software Engineer student. As you can tell, I like to learn new things everyday and try to keep up with new technologies :).
 
 <!--
 **FabiChan/FabiChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
